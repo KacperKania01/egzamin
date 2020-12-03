@@ -35,13 +35,13 @@
                     </div>
         </div>
         <div class="d">
-            <img src="C:\Users\Kacper\Desktop\rysunek.png" alt="" height="400px" width="600px">
+            <img src="rysunek.png" alt="" height="400px" width="600px">
         </div>
         <div class="e">
-                <img src="C:\Users\Kacper\Desktop\kawa.png" alt="" height="400px" width="600px">
+                <img src="kawa.png" alt="" height="400px" width="600px">
         </div>
         <div class="f">
-                <img src="C:\Users\Kacper\Desktop\matematyka.png" alt="" height="200px" width="600px">
+                <img src="matematyka.png" alt="" height="200px" width="600px">
         </div>
         
     </div>
