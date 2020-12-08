@@ -33,6 +33,30 @@
             
                         </details>
                     </div>
+                </br>
+                <div class="c">
+                    <h2>Hermetyzacja to zasada programowania obiektowego mówiąca o tym, że</h2><br>
+                    <li>A. typy pól w klasach/obiektach mogą być dynamicznie zmieniane w zależności od danych im przypisywanych</li>
+                    <li>B. pola i metody wykorzystywane tylko przez daną klasę/obiekt są ograniczone zasięgiem private lub protected</li>
+                    <li>C. klasy/obiekty mogą mieć zdefiniowane metody wirtualne, które są implementowane w pochodnych klasach/obiektach</li>
+                    <li>D. klasy/obiekty mogą współdzielić ze sobą funkcjonalność</li>
+                    <details><summary>Poprawna odpowiedz</summary>
+                        <h3>B</h3>
+        
+                    </details>
+                </div>
+            </br>
+            <div class="d">
+                <h2>Transformację w stylach CSS, polegającą na zamianie tylko pierwszych liter wszystkich wyrazów na wielkie, otrzymamy stosując polecenie</h2><br>
+                <li>A. capitalize</li>
+                <li>B. underline</li>
+                <li>C. uppercase</li>
+                <li>D. lowercase</li>
+                <details><summary>Poprawna odpowiedz</summary>
+                    <h3>A</h3>
+    
+                </details>
+            </div>
       
         
     </div>
