@@ -57,6 +57,18 @@
     
                 </details>
             </div>
+        </br>
+        <div class="e">
+            <h2>W relacyjnym modelu baz danych krotkami nazywa się</h2><br>
+            <li>A. wszystkie kolumny tabeli, które zawierają atrybuty obiektu</li>
+            <li>B. liczbę rekordów tabeli</li>
+            <li>C. wiersze tabeli z wyjątkiem wiersza nagłówkowego, w którym umieszcza się nazwy kolumn</li>
+            <li>D. wszystkie wiersze tabeli wraz z wierszem nagłówkowym</li>
+            <details><summary>Poprawna odpowiedz</summary>
+                <h3>C</h3>
+
+            </details>
+        </div>
       
         
     </div>
