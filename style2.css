@@ -1,26 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .con{
     height: 100vh;
-    display: grid;
-    grid-template-columns: 30% 30% 40%;
-    grid-template-rows: 50% 50%;
-    grid-template-areas: 
-    "c c c"
-    "d e f";
+    background: lightblue;
+
 }
-.c{
-    background: lightcyan;
-    grid-area: c;
-    flex-direction: column;
+.a{
+    margin: 10px;
 }
-.d{
-    grid-area: d;
-    background: pink;
-}
-.e{
-    grid-area: e;
-    background: pink;
-}
-.f{
-    grid-area: f;
-    background: pink;
+.b{
+    margin: 10px;
 }
