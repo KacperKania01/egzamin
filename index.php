@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="con">
-        <div class="c">
+        
                 <div class="a">
                         <h2>Element zadeklarowany w języku C++ double *x; to</h2><br>
                         <li>A. Wskaźnik</li>
@@ -33,16 +33,7 @@
             
                         </details>
                     </div>
-        </div>
-        <div class="d">
-            <img src="rysunek.png" alt="" height="400px" width="600px">
-        </div>
-        <div class="e">
-                <img src="kawa.png" alt="" height="400px" width="600px">
-        </div>
-        <div class="f">
-                <img src="matematyka.png" alt="" height="200px" width="600px">
-        </div>
+      
         
     </div>
 </body>
